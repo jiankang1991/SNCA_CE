@@ -10,6 +10,10 @@ at discovering the neighborhood structure in the metric space; and 2) the cross 
 
 ![alt text](./Selection_001.png)
 
+<p align="center">
+<img src="./Selection_002.png" alt="drawing" width="350"/>
+</p>
+
 ## Usage
 `train_SNCA_CE/main.py` is the script of the proposed SNCA-CE (MB) method for training and validation.
 `train_SNCA_CE_MC/main.py` is the script of the proposed SNCA-CE (MU) method for training and validation.
@@ -20,7 +24,7 @@ at discovering the neighborhood structure in the metric space; and 2) the cross 
 @article{kang2020deepmetric,
   title={{Deep Metric Learning based on Scalable Neighborhood Components for Remote Sensing Scene Characterization}},
   author={Kang, Jian and Fernandez-Beltran, Ruben and Ye, Zhen and Tong, Xiaohua and Ghamisi, Pedram and Plaza, Antonio},
-  journal={IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2020},
   note={DOI:10.1109/TGRS.2020.2991657}
   publisher={IEEE}
