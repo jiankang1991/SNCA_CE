@@ -31,7 +31,8 @@ at discovering the neighborhood structure in the metric space; and 2) the cross 
 }
 
 ```
+## References
 
+[1] Wu, Zhirong, Alexei A. Efros, and Stella X. Yu. "Improving generalization via scalable neighborhood component analysis." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
-
-
+[2] He, Kaiming, et al. "Momentum contrast for unsupervised visual representation learning." arXiv preprint arXiv:1911.05722 (2019).
